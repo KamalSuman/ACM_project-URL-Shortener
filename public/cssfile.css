@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(228, 252, 171);
+    text-align: center;
+
+    padding: 50px;
+ 
+  }
+ 
+  a{
+   text-decoration: none; 
+    
+}
+#form
+{
+    border:1px solid black;
+    padding: 20px;
+    background-color: rgb(203, 202, 201);
+    border-radius: 15px;
+    text-align: center;
+
+}
